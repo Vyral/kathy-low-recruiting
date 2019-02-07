@@ -15,9 +15,6 @@
 <loc>localhost:4000/about/</loc>
 </url>
 <url>
-<loc>localhost:4000/testimonials/</loc>
-</url>
-<url>
 <loc>localhost:4000/contact/</loc>
 </url>
 <url>
@@ -43,6 +40,9 @@
 </url>
 <url>
 <loc>localhost:4000/subscribe/</loc>
+</url>
+<url>
+<loc>localhost:4000/testimonials/</loc>
 </url>
 <url>
 <loc>localhost:4000/thankyou/</loc>
