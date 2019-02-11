@@ -1,9 +1,8 @@
 ---
 layout: recruiting
-title: -- MARKET -- Careers
+title: San Jose Careers
 permalink: /join-our-team/
 ---
-
 <div class="recruiting-page">
 <h1 class="join-us">Join One of the Fastest Growing Real Estate Teams in {{site.data.settings.client.market}}</h1>
 <h5 class="join-us-subtitle">How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</h5>
@@ -14,41 +13,48 @@ permalink: /join-our-team/
 <figcaption class="caption">{{site.data.settings.client.name}}</figcaption>
 </div>
 
+<p>Dear Fellow Real Estate Agent:</p>
 
-<p>Dear Real Estate Agent,</p>
+<p>We understand that you may be working at a real estate brokerage or on a traditional team as part of someone else’s personal brand. Perhaps you’re just getting started in your career, but feel as if your current path isn’t leading you to the success you deserve. Or maybe you’ve got the skills and drive to do well in the business, but have found that <strong>“good enough” is not always good enough.</strong></p>
 
-<p>Are you frustrated with where you’re at in your real estate business?</p>
+<p>The simple truth is that even the most talented individuals can’t thrive if they’re struggling against an inadequate work environment, and proper training is a rare thing in our business.</p>
 
-<p>I’d like to offer you a free subscription to my real estate agent training e-newsletter. You’ll receive:
+<p>Working in these environments can be discouraging. <strong>You fall in line only to find that you’re not moving forward—you’re just spinning your wheels.</strong> Agents at most brokerages receive very little income, support, or training. The truth is that 87% of agents will fail within their first five years in the industry. They give their all only to eventually leave the business and land themselves in a 9-to-5 job where they’re barely scraping by.</p>
+
+<p>Many agents who do remain in the industry are not much better off. 50% of all MLS members sell just two homes a year on average.</p>
+
+<p>The majority of agents dream of going above and beyond this level. They devote a lot of energy into setting goals, but very little energy into achieving them. A select few, however, will take charge of their situation and strive toward success. <strong>If this sounds like you, we’ve got good news.</strong></p>
+
+<p>First, allow us to introduce ourselves. We are Coldwell Banker The Professional Group, and we have helped many agents just like you fulfill their potential. With 40, 28, and 25 years of experience in the industry, respectively, our team leaders Jerry, Kathy, and Kathleen are more than equipped to help new agents evolve into top producers. We have trained thousands of agents, and we look forward to training you, too.</p>
+
+<p><strong>Agents who join us gain instant access to a number of invaluable resources, such as:</strong>
 <ul class="indent">
-<li>Q&A videos answering the most commonly asked business questions</li>
-<li>Interviews with agents in my office on what they are doing to sell homes</li>
-<li>Replays of trainings and meetings we hold, that are recorded, so you can attend 24/7</li>
-<li>Invites to special events with guest speakers that include exclusive discount codes</li>
-<li>Copies of procedure manuals, checklists, and more we use to streamline operations</li>
-<li>Market updates we publish that you can copy and paste to use in your marketing</li>
+<li>Mentoring</li>
+<li>Accountability</li>
+<li>One-on-one training</li>
+<li>Leads</li>
+<li>Proven systems</li>
+<li>And much more!</li>
 </ul></p>
 
-<p>This newsletter is specifically for real estate agents who want to grow, learn, and want to dominate their market with a local brand and expert presence. If you want to improve yourself, make more money and you feel you can do more and just need the tools, this is for you. This is not for part-time agents who are happy with their income.</p>
+<p>The choice is yours. You could try your luck at a less successful brokerage or even leave the business to pursue a 9-to-5 job, or you can join us, plug into our systems, and start seeing the success you deserve. <strong>Why pass up the potential to earn millions when the option is right in front of you?</strong></p>
 
-<p>This is 100% educational advice. I’d like you to get to know what we’re up to here so we can grow the size of the real estate pie in {{site.data.settings.client.market}}. In the past year, ____ homes SOLD in our {{site.data.settings.client.market}} market, so there is plenty of business to go around.</p>
+<p>Coldwell Banker The Professional Group is unlike any other. When you join us, your path to success starts right away. We’ll send you through our intensive 180-day onboarding system, immerse you into our company culture, and get you involved in our Six-Module training program—which covers information about purchase contracts, prospecting, marketing and lead generation, the buying process, the selling process, negotiation techniques, and our full-feature CRM: Commissions Inc.</p>
 
-<p>SPECIAL NEW SUBSCRIBER BONUS</p>
+<p>Better yet, <strong>agents with Coldwell Banker The Professional Group don’t just have a successful professional life—they also have the freedom and income to enjoy a fruitful personal life, as well.</strong></p>
 
-<p>When you subscribe, you’ll also receive a free copy of my Office Tour DVD so you can see how our office is set up, who does what, and what’s it like to work in a productive real estate office. We collectively sell about _____ homes every year.</p>
+<p>But don’t just take our word for it. In order to truly grasp what joining us could do for you, we’d like you to consider the experience of one of our current agents. Before this agent came to us, she had spent seven months trying (and failing) to thrive at a different local brokerage. Recognizing the fact that things needed to change, she left that brokerage and came to us, instead. She followed our intense one-on-one training system and, as a result, earned $82,000 in commission within her first year.</p>
 
-<p>Feel free to unsubscribe anytime. We will never, ever, ever spam you.</p>
+<p><strong>This agent’s success story is incredible, but now it’s time for you to write your own.</strong></p>
 
-<p>The next step, after subscribing to our newsletter, is to attend one of our many Business Planning Workshops we hold from time to time, with the opportunity to schedule a free business planning meeting where we’ll personalize the plan for you.</p>
+<p>If you follow our program, we guarantee you’ll be successful. Through our weekly training meetings and dedication to personal guidance, we take agents and turn them into business professionals. We’re offering you training, very competitive compensation, cutting-edge technology, a great work/life balance, and, above all, success. When you apply with us, you are taking advantage of the opportunity to truly fulfill your potential.</p>
 
-<p>I invite you to subscribe below. Simply enter your email address and you’ll get a confirmation email with a copy of my Office Tour DVD.</p>
+<p>We’re looking forward to talking to you soon!</p>
 
-<p>Email me at <a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a>  with any questions I can answer for you in my videos. If I pick your question and answer it in the newsletter, I’ll send you a $5 Amazon gift card!</p>
-
-<p>Let’s help you grow your business.</p>
-
-<p>{{site.data.settings.client.name}}</p>
-
+<p>Coldwell Banker The Professional Group<br>
+<a href="tel:{{ site.data.settings.client.phone }}">{{ site.data.settings.client.phone }}</a><br />
+<a href="mailto:{{ site.data.settings.client.email }}" target="_blank">{{ site.data.settings.client.email }}</a><br />
+<a href="{{ site.data.settings.client.url }}" target="_blank">{{ site.data.settings.client.url | remove: 'http://' | remove: 'https://' }}</a><br /></p>
 
 
 <h2 class="recruiting">Apply Now to Join Our Team</h2>

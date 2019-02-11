@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <description>-- CLIENT NAME --, a top Real Estate Agent in , shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.</description>
+    <title>San Jose's Best Real Estate Training</title>
+    <description>Kathy Low, a top Real Estate Agent in San Jose, shares her own internal real estate agent training for free. Her Real Estate Training, Tips and Advice will help you sell more homes in less time.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 07 Feb 2019 16:14:38 -0600</pubDate>
-    <lastBuildDate>Thu, 07 Feb 2019 16:14:38 -0600</lastBuildDate>
+    <pubDate>Mon, 11 Feb 2019 14:02:01 -0600</pubDate>
+    <lastBuildDate>Mon, 11 Feb 2019 14:02:01 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -29,11 +29,11 @@
         <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
         <guid isPermaLink="true">localhost:4000/this-is-a-test-post-copy-2.html</guid>
         
-        <category>Market Update</category>
+        <category>Buyer Prospects</category>
         
-        <category>Real Estate</category>
+        <category>Transaction Management</category>
         
-        <category>Home Seller Tips</category>
+        <category>Reviews and Referrals</category>
         
         
       </item>
@@ -74,11 +74,11 @@
         <link>localhost:4000/a-fox-in-space.html</link>
         <guid isPermaLink="true">localhost:4000/a-fox-in-space.html</guid>
         
-        <category>Market Update</category>
+        <category>Lead Generation</category>
         
-        <category>Real Estate</category>
+        <category>Lead Conversion</category>
         
-        <category>Home Seller Tips</category>
+        <category>Listing Presentation</category>
         
         
       </item>
