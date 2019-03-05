@@ -1420,8 +1420,8 @@ html[xmlns] .flexslider .slides {
     height: 300px; }
 
   .nav-logo-small {
-    max-width: 175px;
-    margin-top: -10px; } }
+    max-width: 115px;
+    margin-top: -13px; } }
 @media(max-width: 347px) {
   .navbar {
     padding-right: 5px;
@@ -1522,6 +1522,9 @@ label.tree-toggle {
   .site-logo {
     max-width: 20rem; } }
 @media (max-width: 760px) {
+  #hero {
+    padding-top: 5.5rem; }
+
   .site-logo {
     max-width: 20rem;
     margin-top: 4rem; }
