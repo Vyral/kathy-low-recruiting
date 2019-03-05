@@ -8,7 +8,7 @@ custom_links:
   - title: Events
     url: #
   - title: Free Strategy Call
-    url: /contact/
+    url: /strategy-call/
   - title: Free Newsletter
     url: /subscribe/
 
@@ -24,7 +24,7 @@ client:
   market: San Jose
   brand: Coldwell Banker The Professional Group
   brokerage:
-  address: '2860 Zanker Road #204<br>San Jose, CA 95134'
+  address: '2860 Zanker Road #204 San Jose, CA 95134'
   phone: 408-383-4800
   phone_type:
   phone2:
