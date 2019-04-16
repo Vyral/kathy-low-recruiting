@@ -34,20 +34,20 @@ permalink: /strategy-call/
 
 <p>This will help you get the commission consistency and the freedom we all want from our business.</p>
 
-<!-- <hr>
+<hr>
 <div class="qanda">
 <p class="section-title">Here’s what a few agents say about working with me…</p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p><span class="quote">"I enjoyed your training, it helps me keep educated & updated with the market trends."</span><br>
+<span class="author">- Cuc Ly</span></p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p><span class="quote">"Your training helps me get more knowledgeable & helps me improve my skills."</span><br>
+<span class="author">- Manuel Cortez</span></p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p><span class="quote">"I love your training because it helps me become a better agents and be more confident to help my clients."</span><br>
+<span class="author">- Glenda Lewis</span></p>
 </div>
-<hr> -->
+<hr>
 
 <p>You don’t need to pay a bunch of money to a real estate coach.</p>
 
