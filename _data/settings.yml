@@ -12,6 +12,10 @@ custom_links:
   - title: Free Newsletter
     url: /subscribe/
 
+post_ctas:
+  events_url: https://www.eventbrite.com/e/business-planning-tickets-61241495963?aff=utm_source%3Deb_email%26utm_medium%3Demail%26utm_campaign%3Dnew_event_email&utm_term=eventurl_text
+  events_image: /img/events.jpg
+  join_our_team_image: /img/join_our_team_full.jpg
 
 client:
   name: Kathy Low
@@ -20,7 +24,7 @@ client:
   about_markdown: |
     Kathy Low and the rest of her Home Selling Team service All of the cities of San Jose, Milpitas, Santa Clara, Sunnyvale, Cupertino, Campbell, and all of Santa Clara and Alameda counties, especially the city of Fremont. We are ready to service you anywhere in the Bay Area, Alameda, Contra Costa and San Mateo Counties
 
-    Kathleen is a native Californian, having lived in the Bay Area and going to school in San Jose.  A twin herself,   she followed her better half into Real Estate.  Funny thing; her name is  Kathy as well.  Forming the Kathy Low Team.  Licensed since 1994  and been active for over 25 years.  Together we bring over 39 years of expertise and strength in negotiation for our sellers and buyers.  We feel great when our clients comes back to us and now we are selling homes to their kids.  It’s a wondering feeling that the clients put their trust in our hands.  
+    Kathleen is a native Californian, having lived in the Bay Area and going to school in San Jose.  A twin herself,   she followed her better half into Real Estate.  Funny thing; her name is  Kathy as well.  Forming the Kathy Low Team.  Licensed since 1994  and been active for over 25 years.  Together we bring over 39 years of expertise and strength in negotiation for our sellers and buyers.  We feel great when our clients comes back to us and now we are selling homes to their kids.  It’s a wondering feeling that the clients put their trust in our hands.
   market: San Jose
   brand: Coldwell Banker The Professional Group
   brokerage:
