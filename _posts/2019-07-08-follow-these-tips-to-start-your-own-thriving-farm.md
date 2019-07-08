@@ -25,7 +25,7 @@ First, **pick an area of single-family homes/townhomes/condos that you like and 
 
 {% include pullquote.html %}
 
-After that, talk to the title company to assist you in gathering the addresses of all the homeowners. They’ll then put these into a formatted email, which will help you with your marketing. Your marketing can involve sending postcards, newsletters, or free emails.&nbsp;
+After that, **talk to the title company to assist you in gathering the addresses of all the homeowners.** They’ll then put these into a formatted email, which will help you with your marketing. Your marketing can involve sending postcards, newsletters, or free emails.&nbsp;
 
 Lastly, **make sure you have a budget in place** that allows you to market to these homeowners consistently each month instead of, say, once every four months. They won’t remember you if you’re not consistent.&nbsp;
 
